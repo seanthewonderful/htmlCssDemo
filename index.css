@@ -5,16 +5,17 @@ p{
     height: 30px;
     width: 100px;
     padding: 15px;
-    margin: 0px;
+    margin: 0px 15px 20px 25px;/*left, right, top, bottom ?? */
     background-color: green;
     color: orange;
 }
 
 h1{
     font-size: 12pt;
-
+    border: 10px solid purple;
 }
 
 h1, h2, h4 {
     border: 3px dotted red
 }
+/* comment out code */
